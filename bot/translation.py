@@ -4,21 +4,21 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>Hey {} How Are You!!</b></u>
+<i>Am bot for the group kj mods and iwill carry all in group
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+you can't add me to your group ok 
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@kjmods0707
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> don't add me to any group ok
+-> don't add me to your channel 
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -43,16 +43,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@kjmods0707
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="http://t.me/kjmods">jithin s dileep</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/jithinsdileep12/AutoFilterBotv2">Click Me</a></i>
 """
